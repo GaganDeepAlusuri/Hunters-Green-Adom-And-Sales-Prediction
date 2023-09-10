@@ -1,6 +1,6 @@
 # Hunters-Green-Adom-And-Sales-Prediction
 
-![Project Logo or Image (if applicable)]([[link-to-image.png](https://assets.site-static.com/userFiles/1972/image/Hunters_Green.jpg)](https://assets.site-static.com/userFiles/1972/image/Hunters_Green.jpg))
+![Hunters Green](https://assets.site-static.com/userFiles/1972/image/Hunters_Green.jpg)
 
 **Project Description:** This repository contains the code and data for a project that focuses on predicting Agent Days on Market (ADOM) and home sale prices in the Hunters Green community. The project involves data preprocessing, exploratory data analysis, feature engineering, and the development of predictive models using R.
 
